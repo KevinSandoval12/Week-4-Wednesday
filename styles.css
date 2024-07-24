@@ -1,0 +1,57 @@
+/*
+
+CSS rules you may need for reference:
+
+- font-family
+    - Arial, sans-serif
+- line-height
+- color
+- margin
+- padding
+- background-color
+- border-radius
+- border-left
+- border-bottom
+- margin-top
+- padding-left
+- padding-bottom
+- width
+- height
+- margin-bottom
+- font-size
+
+*/
+
+/* Write your CSS code here */
+
+header {
+  color: white;
+  background-color: rgb(75, 150, 249);
+}
+
+h2 {
+  border-left: solid 1px rgb(75, 150, 249);
+  border-bottom: solid 1px rgb(75, 150, 249);
+}
+
+table tr th {
+  background-color: rgb(75, 150, 249);
+  color: white;
+}
+
+table tr {
+  border-bottom: solid 1px;
+}
+table,
+tr  {
+  background-color: lightgrey;
+}
+
+img {
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
+footer {
+  color: rgb(215, 215, 215);
+}
